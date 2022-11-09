@@ -1,2 +1,5 @@
-# howto-web-ui__tailwindcss-with-nextjs__storybook
-Storybook Release for tailwindcss-with-nextjs in HowTo Web UI
+# howto-ghpages
+
+Gitbub pages repository for development projects
+
+Visit: https://aistyler.github.io/howto-ghpages/
